@@ -10,7 +10,7 @@ This is a minimal starting point for new Netlify projects with visual editing. I
 
 If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/ts-mui-nextjs-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/oc-2/ts-mui-nextjs-starter)
 
 ## Features
 
