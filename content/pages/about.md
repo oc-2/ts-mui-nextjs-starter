@@ -6,8 +6,7 @@ sections:
     title: Example for H2 headline
     subtitle: This is the subtitle
     text: >
-      This is **Markdown** *text*.
-
+      This is a **Markdown** *text*.
 
 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
