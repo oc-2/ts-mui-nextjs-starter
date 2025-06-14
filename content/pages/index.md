@@ -77,5 +77,6 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: >-
+              https://docs.netlify.com/visual-editor/get-started/visual-editor-quickstart/#app
 ---
