@@ -1,4 +1,6 @@
-# Netlify Next.js + TypeScript + MUI Starter  
+# Netlify Next.js + TypeScript + MUI Starter
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e912125-35cd-4d1e-b2b9-60356986474c/deploy-status)](https://app.netlify.com/projects/cheery-selkie-b12c6c/deploys)
 
 ![Netlify Next.js + TS + MUI Starter](https://assets.stackbit.com/docs/ts-nextjs-starter-thumb.png)
 
