@@ -2,5 +2,6 @@ version: "1"
 rules:
   - base: preview
     upstream: main
+    mergeMethod: merge
     conflictReviewers:
       - oc-2
