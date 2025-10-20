@@ -3,7 +3,7 @@ title: About
 type: Page
 sections:
   - type: HeroSection
-    title: This is an H2 headline
+    title: This is a H2 headline
     subtitle: This is the subtitle
     text: >
       This is a **Markdown** *text*.
